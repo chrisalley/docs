@@ -9,7 +9,7 @@ When you use the `amber new` command to create your application, it creates the 
 | config/ | Contains configuration code for initializers, environments, routing, and deployment |
 | db/ | Contains database seeds and migrations. |
 | lib/ | Contains local installation of all dependent shards |
-| public/ | Location for html, css, and javscripts. This will be the default directory for static assets. |
+| public/ | Location for html, css, and javascripts. This will be the default directory for static assets. |
 | spec/ | Location for application specification and tests |
 | src/ | Source code that composes your application |
 | .encryption\_key | This file is used to encrypt application secrets so they are not stored in source control |
